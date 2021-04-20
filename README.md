@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pithuiliuid
 - 👀 I’m interested in learning and contributing my piece, big or small.
 - 🌱 I’m currently learning languages.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
